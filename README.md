@@ -3,7 +3,7 @@
 ## **Introduction**
 Pneumonia is an infectious disease that inflames the air sacs in one or both lungs that can range from a mild to life-threatening severity. A variety of organisms can cause Pneumonia, including bacteria, viruses and fungi, and early diagnosis of the disease is crucial for preventing deterioration of patients' medical condition. 
 
-##**Dataset and Classification algorithm** 
+## **Dataset and Classification algorithm** 
 In the current project, a data set of chest X-ray images (obtained from Kaggle) is used to predict pneumonia by classifying images to either normal or pneumonia category. 
 The dataset contains total of 5,863 X-Ray images (JPEG), organized into 3 folders (train, test, val), in which each folder is divided into two category subfolders (Pneumonia/Normal). 
 
