@@ -11,6 +11,7 @@ These images were used for training CNN models in an approach know as Transfer L
 
 ## **Project Goal**
 The main goal of this project (as defined in the Kaggle competition) is to classify X-Ray images into Normal or Pneumonia Categories. 
+
 However, since the treatment of bacterial pneumonia differ significantly from a viral pneumonia, at the second part of the project images of pneumonia patients were divided into two additional categories ("Bacteria"/"Virus") to predict the type of infection causing the disease. While bacterial infections can be treated using antibiotics, viral infection cannot. Therefore, predicting the source of infection can assist determine the appropriate route of treatment in these medical conditions.   
 
 ## **Working Environment**
